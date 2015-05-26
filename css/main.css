@@ -1,0 +1,42 @@
+.home-page{
+	width: 100%;
+	min-height: 1100px;
+	background-image: url("../images/2.jpg");
+	background-repeat: no-repeat;
+
+}
+
+.deeps { 
+	transition: all .2s ease-in-out; 
+}
+
+.deeps:hover { 
+	transform: scale(1.1); 
+}
+
+.home-head{
+	text-align: center;
+	color: silver;
+}
+
+.btn-block{
+	background-color: transparent;
+	border: 2px solid white;
+	transition: all .2s ease-in-out;
+}
+
+.btn-block:hover{
+	transform: scale(1.5);
+}
+
+.about{
+	background-color: black;
+	height: 400px;
+	color: silver;
+	border: 1px solid silver;
+}
+
+.footer{
+	background-color: black;
+	color: silver;
+}
